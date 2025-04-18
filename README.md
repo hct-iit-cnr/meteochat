@@ -1,2 +1,2 @@
 # meteochat
-Analysis and Reporting of Environmental Data through AI (AREDA)
+Analysis and Reporting of Environmental Data through AI 
